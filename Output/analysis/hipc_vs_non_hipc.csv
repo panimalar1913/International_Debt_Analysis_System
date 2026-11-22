@@ -1,0 +1,6 @@
+indicator,HIPC_median,non_HIPC_median,mann_whitney_p
+debt_gni,42.7472,44.831,0.6338
+debt_service_exports,13.327,13.6733,0.5104
+concessional_pct,27.6312,6.207,0.0
+short_term_pct,4.4129,11.4066,0.0003
+debt_per_capita,455.9156,2705.2766,0.0

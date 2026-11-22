@@ -1,0 +1,9 @@
+,debt_gni,debt_service_exports,interest_gni,debt_per_capita,short_term_pct,concessional_pct,multilateral_pct,reserves_pct_debt
+debt_gni,1.0,0.4,0.78,0.62,0.12,-0.04,-0.03,-0.48
+debt_service_exports,0.4,1.0,0.62,0.3,0.07,-0.33,-0.23,-0.37
+interest_gni,0.78,0.62,1.0,0.76,0.23,-0.44,-0.24,-0.48
+debt_per_capita,0.62,0.3,0.76,1.0,0.3,-0.48,-0.32,-0.21
+short_term_pct,0.12,0.07,0.23,0.3,1.0,-0.43,-0.51,0.12
+concessional_pct,-0.04,-0.33,-0.44,-0.48,-0.43,1.0,0.67,-0.02
+multilateral_pct,-0.03,-0.23,-0.24,-0.32,-0.51,0.67,1.0,-0.02
+reserves_pct_debt,-0.48,-0.37,-0.48,-0.21,0.12,-0.02,-0.02,1.0

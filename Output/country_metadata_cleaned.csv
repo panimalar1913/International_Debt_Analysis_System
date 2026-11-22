@@ -1,0 +1,135 @@
+country_code,country_name,country_long_name,iso2_code,entity_type,region,income_group,lending_category,is_hipc,currency_unit,debt_reporting_status
+EAP,East Asia & Pacific (excluding high income),East Asia & Pacific (excluding high income),4E,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+ECA,Europe & Central Asia (excluding high income),Europe & Central Asia (excluding high income),7E,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+IDX,IDA only,IDA only,XI,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+IDA,IDA total,IDA total,XG,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+LAC,Latin America & Caribbean (excluding high income),Latin America & Caribbean (excluding high income),XJ,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+LDC,Least developed countries: UN classification,Least developed countries: UN classification,XL,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+LMY,Low & middle income,Low & middle income,XO,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+LIC,Low income,Low income,XM,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+LMC,Lower middle income,Lower middle income,XN,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)","Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+MIC,Middle income,Middle income,XP,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+SAS,South Asia,South Asia,8S,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+SSA,Sub-Saharan Africa (excluding high income),Sub-Saharan Africa (excluding high income),ZF,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+UMC,Upper middle income,Upper middle income,XT,Aggregate,Not applicable (aggregate),Not applicable (aggregate),Not applicable (aggregate),False,Not applicable (aggregate),Not applicable (aggregate)
+AFG,Afghanistan,Islamic State of Afghanistan,AF,Country,Middle East & North Africa,Low income,IDA,True,Afghan afghani,Estimate
+ALB,Albania,Republic of Albania,AL,Country,Europe & Central Asia,Upper middle income,IBRD,False,Albanian lek,Actual
+DZA,Algeria,People's Democratic Republic of Algeria,DZ,Country,Middle East & North Africa,Upper middle income,IBRD,False,Algerian dinar,Actual
+AGO,Angola,People's Republic of Angola,AO,Country,Sub-Saharan Africa,Lower middle income,IBRD,False,Angolan kwanza,Actual
+ARG,Argentina,Argentine Republic,AR,Country,Latin America & Caribbean,Upper middle income,IBRD,False,Argentine peso,Actual
+ARM,Armenia,Republic of Armenia,AM,Country,Europe & Central Asia,Upper middle income,IBRD,False,Armenian dram,Actual
+AZE,Azerbaijan,Republic of Azerbaijan,AZ,Country,Europe & Central Asia,Upper middle income,IBRD,False,New Azeri manat,Actual
+BGD,Bangladesh,People's Republic of Bangladesh,BD,Country,South Asia,Lower middle income,IDA,False,Bangladeshi taka,Actual
+BLR,Belarus,Republic of Belarus,BY,Country,Europe & Central Asia,Upper middle income,IBRD,False,Belarusian rubel,Estimate
+BLZ,Belize,Belize,BZ,Country,Latin America & Caribbean,Upper middle income,Blend,False,Belize dollar,Actual
+BEN,Benin,Republic of Benin,BJ,Country,Sub-Saharan Africa,Lower middle income,IDA,True,West African CFA franc,Actual
+BTN,Bhutan,Kingdom of Bhutan,BT,Country,South Asia,Lower middle income,IDA,False,Bhutanese ngultrum,Actual
+BOL,"Bolivia, Plurinational State of",Plurinational State of Bolivia,BO,Country,Latin America & Caribbean,Lower middle income,IBRD,True,Bolivian Boliviano,Actual
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,BA,Country,Europe & Central Asia,Upper middle income,IBRD,False,Bosnia and Herzegovina convertible mark,Actual
+BWA,Botswana,Republic of Botswana,BW,Country,Sub-Saharan Africa,Upper middle income,IBRD,False,Botswana pula,Actual
+BRA,Brazil,Federative Republic of Brazil,BR,Country,Latin America & Caribbean,Upper middle income,IBRD,False,Brazilian real,Actual
+BFA,Burkina Faso,Burkina Faso,BF,Country,Sub-Saharan Africa,Low income,IDA,True,West African CFA franc,Actual
+BDI,Burundi,Republic of Burundi,BI,Country,Sub-Saharan Africa,Low income,IDA,True,Burundi franc,Actual
+CPV,Cabo Verde,Republic of Cabo Verde,CV,Country,Sub-Saharan Africa,Upper middle income,Blend,False,Cabo Verde escudo,Actual
+KHM,Cambodia,Kingdom of Cambodia,KH,Country,East Asia & Pacific,Lower middle income,IDA,False,Cambodian riel,Actual
+CMR,Cameroon,Republic of Cameroon,CM,Country,Sub-Saharan Africa,Lower middle income,Blend,True,Central African CFA franc,Actual
+CAF,Central African Republic,Central African Republic,CF,Country,Sub-Saharan Africa,Low income,IDA,True,Central African CFA franc,Actual
+TCD,Chad,Republic of Chad,TD,Country,Sub-Saharan Africa,Low income,IDA,True,Central African CFA franc,Preliminary
+CHN,China,People's Republic of China,CN,Country,East Asia & Pacific,Upper middle income,IBRD,False,Chinese yuan,Preliminary
+COL,Colombia,Republic of Colombia,CO,Country,Latin America & Caribbean,Upper middle income,IBRD,False,Colombian peso,Actual
+COM,Comoros,Union of the Comoros,KM,Country,Sub-Saharan Africa,Lower middle income,IDA,True,Comorian franc,Actual
+COD,"Congo, Democratic Republic of",Democratic Republic of the Congo,CD,Country,Sub-Saharan Africa,Low income,IDA,True,Congolese franc,Actual
+COG,"Congo, Republic of",Republic of Congo,CG,Country,Sub-Saharan Africa,Lower middle income,Blend,True,Central African CFA franc,Actual
+CIV,Côte d'Ivoire,Republic of Côte d'Ivoire,CI,Country,Sub-Saharan Africa,Lower middle income,Blend,True,West African CFA franc,Actual
+DJI,Djibouti,Republic of Djibouti,DJ,Country,Middle East & North Africa,Lower middle income,IDA,False,Djibouti franc,Actual
+DMA,Dominica,Commonwealth of Dominica,DM,Country,Latin America & Caribbean,Upper middle income,Blend,False,East Caribbean dollar,Actual
+DOM,Dominican Republic,Dominican Republic,DO,Country,Latin America & Caribbean,Upper middle income,IBRD,False,Dominican peso,Actual
+ECU,Ecuador,Republic of Ecuador,EC,Country,Latin America & Caribbean,Upper middle income,IBRD,False,U.S. dollar,Preliminary
+EGY,"Egypt, Arab Republic of",Arab Republic of Egypt,EG,Country,Middle East & North Africa,Lower middle income,IBRD,False,Egyptian pound,Actual
+SLV,El Salvador,Republic of El Salvador,SV,Country,Latin America & Caribbean,Upper middle income,IBRD,False,U.S. dollar,Actual
+GNQ,Equatorial Guinea,Republic of Equatorial Guinea,GQ,Country,Sub-Saharan Africa,Upper middle income,IBRD,False,Central African CFA franc,Actual
+ERI,Eritrea,State of Eritrea,ER,Country,Sub-Saharan Africa,Low income,IDA,True,Eritrean nakfa,Estimate
+SWZ,Eswatini,Kingdom of Eswatini,SZ,Country,Sub-Saharan Africa,Lower middle income,Blend,False,Swazi lilangeni,Actual
+ETH,Ethiopia,Federal Democratic Republic of Ethiopia,ET,Country,Sub-Saharan Africa,Not available,IDA,True,Ethiopian birr,Actual
+FJI,Fiji,Republic of Fiji,FJ,Country,East Asia & Pacific,Upper middle income,Blend,False,Fijian dollar,Actual
+GAB,Gabon,Gabonese Republic,GA,Country,Sub-Saharan Africa,Upper middle income,IBRD,False,Central African CFA franc,Actual
+GMB,"Gambia, The",Republic of The Gambia,GM,Country,Sub-Saharan Africa,Low income,IDA,True,Gambian dalasi,Actual
+GEO,Georgia,Georgia,GE,Country,Europe & Central Asia,Upper middle income,IBRD,False,Georgian lari,Actual
+GHA,Ghana,Republic of Ghana,GH,Country,Sub-Saharan Africa,Lower middle income,IDA,True,New Ghanaian cedi,Actual
+GRD,Grenada,Grenada,GD,Country,Latin America & Caribbean,Upper middle income,Blend,False,East Caribbean dollar,Actual
+GTM,Guatemala,Republic of Guatemala,GT,Country,Latin America & Caribbean,Upper middle income,IBRD,False,Guatemalan quetzal,Actual
+GIN,Guinea,Republic of Guinea,GN,Country,Sub-Saharan Africa,Lower middle income,IDA,True,Guinean franc,Actual
+GNB,Guinea-Bissau,Republic of Guinea-Bissau,GW,Country,Sub-Saharan Africa,Low income,IDA,True,West African CFA franc,Actual
+GUY,Guyana,Co-operative Republic of Guyana,GY,Country,Latin America & Caribbean,High income,IDA,True,Guyana dollar,Actual
+HTI,Haiti,Republic of Haiti,HT,Country,Latin America & Caribbean,Lower middle income,IDA,True,Haitian gourde,Actual
+HND,Honduras,Republic of Honduras,HN,Country,Latin America & Caribbean,Lower middle income,IDA,True,Honduran lempira,Actual
+IND,India,Republic of India,IN,Country,South Asia,Lower middle income,IBRD,False,Indian rupee,Actual
+IDN,Indonesia,Republic of Indonesia,ID,Country,East Asia & Pacific,Upper middle income,IBRD,False,Indonesian rupiah,Actual
+IRN,"Iran, Islamic Republic of",Islamic Republic of Iran,IR,Country,Middle East & North Africa,Upper middle income,IBRD,False,Iranian rial,Estimate
+IRQ,Iraq,Republic of Iraq,IQ,Country,Middle East & North Africa,Upper middle income,IBRD,False,Iraqi dinar,Actual
+JAM,Jamaica,Jamaica,JM,Country,Latin America & Caribbean,Upper middle income,IBRD,False,Jamaican dollar,Actual
+JOR,Jordan,Hashemite Kingdom of Jordan,JO,Country,Middle East & North Africa,Lower middle income,IBRD,False,Jordanian dinar,Actual
+KAZ,Kazakhstan,Republic of Kazakhstan,KZ,Country,Europe & Central Asia,Upper middle income,IBRD,False,Kazakh tenge,Actual
+KEN,Kenya,Republic of Kenya,KE,Country,Sub-Saharan Africa,Lower middle income,Blend,False,Kenyan shilling,Actual
+XKX,Kosovo,Republic of Kosovo,XK,Country,Europe & Central Asia,Upper middle income,IDA,False,Euro,Actual
+KGZ,Kyrgyz Republic,Kyrgyz Republic,KG,Country,Europe & Central Asia,Lower middle income,IDA,True,Kyrgyz som,Actual
+LAO,Lao PDR,Lao People's Democratic Republic,LA,Country,East Asia & Pacific,Lower middle income,IDA,False,Lao kip,Actual
+LBN,Lebanon,Lebanese Republic,LB,Country,Middle East & North Africa,Lower middle income,IBRD,False,Lebanese pound,Estimate
+LSO,Lesotho,Kingdom of Lesotho,LS,Country,Sub-Saharan Africa,Lower middle income,IDA,False,Lesotho loti,Actual
+LBR,Liberia,Republic of Liberia,LR,Country,Sub-Saharan Africa,Low income,IDA,True,Liberian dollar,Actual
+MDG,Madagascar,Republic of Madagascar,MG,Country,Sub-Saharan Africa,Low income,IDA,True,Malagasy ariary,Actual
+MWI,Malawi,Republic of Malawi,MW,Country,Sub-Saharan Africa,Low income,IDA,True,Malawi kwacha,Actual
+MDV,Maldives,Republic of Maldives,MV,Country,South Asia,Upper middle income,IDA,False,Maldivian rufiyaa,Actual
+MLI,Mali,Republic of Mali,ML,Country,Sub-Saharan Africa,Low income,IDA,True,West African CFA franc,Actual
+MRT,Mauritania,Islamic Republic of Mauritania,MR,Country,Sub-Saharan Africa,Lower middle income,IDA,True,Mauritanian ouguiya,Actual
+MUS,Mauritius,Republic of Mauritius,MU,Country,Sub-Saharan Africa,Upper middle income,IBRD,False,Mauritian rupee,Actual
+MEX,Mexico,United Mexican States,MX,Country,Latin America & Caribbean,Upper middle income,IBRD,False,Mexican peso,Actual
+MDA,Moldova,Republic of Moldova,MD,Country,Europe & Central Asia,Upper middle income,IBRD,False,Moldovan leu,Actual
+MNG,Mongolia,Mongolia,MN,Country,East Asia & Pacific,Upper middle income,IBRD,False,Mongolian tugrik,Actual
+MNE,Montenegro,Montenegro,ME,Country,Europe & Central Asia,Upper middle income,IBRD,False,Euro,Actual
+MAR,Morocco,Kingdom of Morocco,MA,Country,Middle East & North Africa,Lower middle income,IBRD,False,Moroccan dirham,Actual
+MOZ,Mozambique,Republic of Mozambique,MZ,Country,Sub-Saharan Africa,Low income,IDA,True,New Mozambican metical,Actual
+MMR,Myanmar,Republic of the Union of Myanmar,MM,Country,East Asia & Pacific,Lower middle income,IDA,False,Myanmar kyat,Actual
+NPL,Nepal,Nepal,NP,Country,South Asia,Lower middle income,IDA,False,Nepalese rupee,Actual
+NIC,Nicaragua,Republic of Nicaragua,NI,Country,Latin America & Caribbean,Lower middle income,IDA,True,Nicaraguan gold cordoba,Actual
+NER,Niger,Republic of Niger,NE,Country,Sub-Saharan Africa,Low income,IDA,True,West African CFA franc,Actual
+NGA,Nigeria,Federal Republic of Nigeria,NG,Country,Sub-Saharan Africa,Lower middle income,Blend,False,Nigerian naira,Actual
+MKD,North Macedonia,Republic of North Macedonia,MK,Country,Europe & Central Asia,Upper middle income,IBRD,False,Macedonian denar,Actual
+PAK,Pakistan,Islamic Republic of Pakistan,PK,Country,Middle East & North Africa,Lower middle income,Blend,False,Pakistani rupee,Actual
+PNG,Papua New Guinea,The Independent State of Papua New Guinea,PG,Country,East Asia & Pacific,Lower middle income,Blend,False,Papua New Guinea kina,Actual
+PRY,Paraguay,Republic of Paraguay,PY,Country,Latin America & Caribbean,Upper middle income,IBRD,False,Paraguayan guarani,Actual
+PER,Peru,Republic of Peru,PE,Country,Latin America & Caribbean,Upper middle income,IBRD,False,Peruvian new sol,Actual
+PHL,Philippines,Republic of the Philippines,PH,Country,East Asia & Pacific,Lower middle income,IBRD,False,Philippine peso,Actual
+RWA,Rwanda,Republic of Rwanda,RW,Country,Sub-Saharan Africa,Low income,IDA,True,Rwandan franc,Actual
+WSM,Samoa,Independent State of Samoa,WS,Country,East Asia & Pacific,Upper middle income,IDA,False,Samoan tala,Actual
+SEN,Senegal,Republic of Senegal,SN,Country,Sub-Saharan Africa,Lower middle income,IDA,True,West African CFA franc,Actual
+SRB,Serbia,Republic of Serbia,RS,Country,Europe & Central Asia,Upper middle income,IBRD,False,New Serbian dinar,Actual
+SLE,Sierra Leone,Republic of Sierra Leone,SL,Country,Sub-Saharan Africa,Low income,IDA,True,Sierra Leonean leone,Actual
+SLB,Solomon Islands,Solomon Islands,SB,Country,East Asia & Pacific,Lower middle income,IDA,False,Solomon Islands dollar,Actual
+SOM,"Somalia, Fed. Rep.",Federal Republic of Somalia,SO,Country,Sub-Saharan Africa,Low income,IDA,True,Somali shilling,Actual
+ZAF,South Africa,Republic of South Africa,ZA,Country,Sub-Saharan Africa,Upper middle income,IBRD,False,South African rand,Actual
+LKA,Sri Lanka,Democratic Socialist Republic of Sri Lanka,LK,Country,South Asia,Lower middle income,IDA,False,Sri Lankan rupee,Actual
+LCA,St. Lucia,St. Lucia,LC,Country,Latin America & Caribbean,Upper middle income,Blend,False,East Caribbean dollar,Actual
+VCT,St. Vincent and the Grenadines,St. Vincent and the Grenadines,VC,Country,Latin America & Caribbean,Upper middle income,Blend,False,East Caribbean dollar,Actual
+SDN,Sudan,Republic of the Sudan,SD,Country,Sub-Saharan Africa,Low income,IDA,True,Sudanese pound,Estimate
+SUR,Suriname,Republic of Suriname,SR,Country,Latin America & Caribbean,Upper middle income,Blend,False,Suriname dollar,Actual
+SYR,Syrian Arab Republic,Syrian Arab Republic,SY,Country,Middle East & North Africa,Low income,IDA,False,Syrian pound,Estimate
+STP,São Tomé and Principe,Democratic Republic of São Tomé and Principe,ST,Country,Sub-Saharan Africa,Lower middle income,IDA,True,São Tomé and Principe dobra,Actual
+TJK,Tajikistan,Republic of Tajikistan,TJ,Country,Europe & Central Asia,Lower middle income,IDA,False,Tajik somoni,Actual
+TZA,Tanzania,United Republic of Tanzania,TZ,Country,Sub-Saharan Africa,Lower middle income,IDA,True,Tanzanian shilling,Actual
+THA,Thailand,Kingdom of Thailand,TH,Country,East Asia & Pacific,Upper middle income,IBRD,False,Thai baht,Actual
+TLS,Timor-Leste,Democratic Republic of Timor-Leste,TL,Country,East Asia & Pacific,Lower middle income,Blend,False,U.S. dollar,Actual
+TGO,Togo,Republic of Togo,TG,Country,Sub-Saharan Africa,Low income,IDA,True,West African CFA franc,Actual
+TON,Tonga,Kingdom of Tonga,TO,Country,East Asia & Pacific,Upper middle income,IDA,False,Tongan pa'anga,Actual
+TUN,Tunisia,Republic of Tunisia,TN,Country,Middle East & North Africa,Lower middle income,IBRD,False,Tunisian dinar,Actual
+TKM,Turkmenistan,Turkmenistan,TM,Country,Europe & Central Asia,Upper middle income,IBRD,False,New Turkmen manat,Actual
+TUR,Türkiye,Republic of Türkiye,TR,Country,Europe & Central Asia,Upper middle income,IBRD,False,New Turkish lira,Actual
+UGA,Uganda,Republic of Uganda,UG,Country,Sub-Saharan Africa,Low income,IDA,True,Ugandan shilling,Actual
+UKR,Ukraine,Ukraine,UA,Country,Europe & Central Asia,Upper middle income,IBRD,False,Ukrainian hryvnia,Actual
+UZB,Uzbekistan,Republic of Uzbekistan,UZ,Country,Europe & Central Asia,Lower middle income,Blend,False,Uzbek som,Actual
+VUT,Vanuatu,Republic of Vanuatu,VU,Country,East Asia & Pacific,Lower middle income,IDA,False,Vanuatu vatu,Actual
+VNM,Viet Nam,Socialist Republic of Viet Nam,VN,Country,East Asia & Pacific,Lower middle income,IBRD,False,Vietnamese dong,Actual
+YEM,"Yemen, Republic of",Republic of Yemen,YE,Country,Middle East & North Africa,Low income,IDA,False,Yemeni rial,Preliminary
+ZMB,Zambia,Republic of Zambia,ZM,Country,Sub-Saharan Africa,Lower middle income,IDA,True,New Zambian kwacha,Actual
+ZWE,Zimbabwe,Republic of Zimbabwe,ZW,Country,Sub-Saharan Africa,Lower middle income,Blend,False,Zimbabwean Zimbabwe Gold,Actual
