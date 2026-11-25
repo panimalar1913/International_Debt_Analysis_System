@@ -244,4 +244,4 @@ with tab_indicator:
 
 # --- TAB 3: RAW DATA ---
 with tab_data:
-    st.dataframe(df_ind_filtered.head(5000), use_container_width=True)
+    st.dataframe(df_country_filtered.head(5000), use_container_width=True)

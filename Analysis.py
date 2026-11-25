@@ -93,7 +93,7 @@ comp = pd.DataFrame({k: [s(v).sum() / 1e9, s(v).sum() / tot * 100] for k, v in c
                     index=["bn_usd", "pct_of_total_debt"]).T.round(1)
 comp.to_csv(RES / "debt_composition_2024.csv")
 
-# ---- 5. Relationships (Spearman: robust to the heavy skew) --------------------
+# 5. Relationships (Spearman: robust to the heavy skew) consistently move up or down together based on their rank ------
 cols = ["debt_gni", "debt_service_exports", "interest_gni", "debt_per_capita", "short_term_pct",
         "concessional_pct", "multilateral_pct", "reserves_pct_debt"]
 corr = X[cols].corr(method="spearman").round(2)
